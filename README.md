@@ -2,6 +2,7 @@
 🌱 Currently learning the basics of programming and web development  
 💡 Interested in technology, problem solving, and building simple projects  
 🚀 Open to learning, collaboration, and new experiences
+i'm learning in gdgoc
 
 <!--
 **sriirezeki/sriirezeki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
